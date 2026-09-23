@@ -109,7 +109,10 @@ streamlit run app.py
 - Advanced AI models
 
 ---
+## Portfolio
 
+View my portfolio:
+https://pranavk-tech.github.io/Pranav-Kumar-Portfolio/
 ## Author
 
 Pranav Kumar
